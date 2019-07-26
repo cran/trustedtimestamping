@@ -1,0 +1,14 @@
+1bf8e7254158c1e22556f3b6c276ed35 *DESCRIPTION
+e8627595913d65f75107bf5ee1b135bb *NAMESPACE
+e389aff0ba8f37a847fb187ccd7184d0 *R/tts.r
+6894538d872af09c1083661fc2dd26df *man/convert_stellarHash.Rd
+2e069ef96ed658df016326fc183539de *man/create_hashFile.Rd
+2c29fd21380db570e045c319d2e66631 *man/create_hashObject.Rd
+f5995b5ac2d2dcc0663fdbee5606e042 *man/create_ttsFile.Rd
+b67eb09715f3566ad2838181ad5061aa *man/create_ttsObject.Rd
+8197822e5c6b803e065936bbcf13aeb3 *man/get_hash.Rd
+941b6acea8a8eab7a08f430b5eb4d43f *man/get_timestamp.Rd
+26ce74bb1d81c22e9492a45c849155da *man/get_url_blockchaintransaction.Rd
+67c191e3283b68a5786df44e99edb5ef *man/reexports.Rd
+25a39df6c23c51e4289cb237543086a1 *man/validate_hashFile.Rd
+f113851a5cba6cf3a3f5d7a092dfff25 *man/validate_hashObject.Rd
